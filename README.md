@@ -1,6 +1,8 @@
 ## Hi, there!
-My research insterest is mainly about OLAP for DBMS and Vector Database.
+My name is SHEN, Qifeng, an MSc student in CUHK. Before it, I graduated from HIT in 2023.
 
-Currently, I am focusing on Google LevelDB, Apache Doris and Milvus.
+My research interest is mainly about OLAP for DBMS, Vector Database and AI4DB.
 
-Email: acking /dot sam /at gmail /dot com
+Currently, I am focusing on DuckDB, Google LevelDB, Apache Doris and Milvus.
+
+Email to contact me: acking /dot sam /at gmail /dot com
